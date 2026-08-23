@@ -1,4 +1,2 @@
 one
 Hello
-
-Another Feature
